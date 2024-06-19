@@ -3,17 +3,15 @@
 //  SimpleName
 //
 //  Created by Stanislav Lemeshaev on 19.06.2024.
+//  Copyright © 2024 iOS Diving. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class MainViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .blue
     }
-
-
 }
-
